@@ -1,0 +1,375 @@
+id,title,author,pages_gt_200,pages_gt_300,pages_gt_400,pages_gt_500,pages_gt_600,year_pre1950,year_1950_1999,year_2000_2014,year_2015plus,genre_fiction,genre_nonfiction,genre_fantasy,genre_mystery,genre_children,author_russian,is_popular,part_of_series,is_bestseller
+1,Лев Толстой и голод,graf Leo Tolstoy,True,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+2,"Лев Толстой, 1852-1869",Георгий Лесскис,True,True,True,True,True,False,False,True,False,False,False,False,False,False,False,True,False,False
+3,Лев Толстой,Максим Горький,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False
+4,Лев Николаевич Толстой,Pavel Biri︠u︡kov,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,True,False,True
+5,Толстой 1850-1860,Борис Измаилович Срезневский,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+6,"Л.Н. Толстой, биография, характеристики, воспоминания (Жизнь, личность, творчество)",Pavel Biri︠u︡kov,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+7,Л.Н. Толстой в воспоминаниях современников,Nikolaĭ Leontʹevich Brodskiĭ,True,True,True,True,False,False,True,False,False,False,False,False,False,False,False,True,False,False
+8,Для детей,graf Leo Tolstoy,True,False,False,False,False,False,True,False,False,False,False,False,False,True,True,False,False,False
+9,Лев Толстой и его жена,Тихон Иванович Полнер,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+10,"«Кто, что я?» Толстой в своих дневниках, письмах, воспоминаниях, трактатах",Ирина Паперно,True,True,True,True,True,False,False,False,True,False,True,False,False,False,False,True,False,False
+11,Достоевский. Мысли на каждый день,Федор Достоевский,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+12,Достоевский. Его жизнь и литературная деятельность.,"Соловьёв, Евгений",False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False
+13,Достоевский. Повести и рассказы. Том 2,Фёдор Достоевский,True,True,True,True,True,False,False,False,True,True,False,False,False,False,False,True,False,False
+14,Толстой и Достоевский (сборник),Лев Толстой,True,True,True,True,False,False,False,False,True,False,True,False,False,False,False,True,False,False
+15,Достоевский Ф. Собрание сочинений в одной книге,Достоевский Ф. М.,True,True,True,True,True,False,False,True,False,True,False,False,False,False,False,True,False,False
+16,Suicide as a Cultural Institution in Dostoevsky's Russia,Irina Paperno,True,True,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False
+17,Честный вор - Ф.М. Достоевский,Фёдор Михайлович Достоевский,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+18,Достоевский. Энциклопедия,Николай Наседкин,True,True,True,True,True,False,False,False,True,False,True,False,False,False,False,True,False,False
+19,Достоевский. Повести и рассказы. Том 12,Фёдор Достоевский,True,True,True,True,True,False,False,False,True,True,False,False,False,False,False,True,False,False
+20,Достоевский,Б. Н Тихомиров,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+21,"Достоевский о науке, капитализме и последних временах",Валентин Катасонов,True,True,True,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False
+22,Достоевский. Повести и рассказы. Том 7,Фёдор Достоевский,True,True,True,True,True,False,False,False,True,True,False,False,False,False,False,True,False,False
+23,Достоевский,Инна Свеченовская,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+24,Shakespeare and the Middle Ages,Martha W. Driver,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+25,The Cambridge Companion to Shakespeare on Film,Russell Jackson,True,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+26,O'Neill's Shakespeare,Normand Berlin,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+27,The Complete Works of William Shakespeare,William Shakespeare,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+28,"Mr. William Shakespeare's Comedies, Histories, Tragedies, & Sonnets",William Shakespeare,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False,True,False,True
+29,The Shakespeare Myth,Graham Holderness,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+30,Shakespeare--world Views,Heather Kerr,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+31,The Works of William Shakespeare,William Shakespeare,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False,True,False,True
+32,Shakespeare,Henry Norman Hudson,True,True,True,False,False,True,False,False,False,False,False,False,False,False,False,True,False,True
+33,"Shakespeare Survey: Volume 58, Writing about Shakespeare",Peter Holland,True,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+34,Selling Shakespeare to Hollywood,Emma French,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+35,"The Rural Life of Shakespeare, as Illustrated by His Works",Charles Roach Smith,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+36,A Glossary to the Works of William Shakespeare,Alexander Dyce,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,True,False,True
+37,The Plays of Shakespeare,H. Morley,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+38,The Works of William Shakespeare: King Henry VI,William Shakespeare,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+39,Charles Dickens and His Original Illustrators,Jane R. Cohen,True,True,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False
+40,The Cambridge Companion to Charles Dickens,John O. Jordan,True,False,False,False,False,False,False,True,False,True,False,False,True,False,False,False,False,False
+41,Собрание сочинений Чарльза Диккенса,Charles Dickens,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True
+42,Полное собраніе сочиненій Чарльза Диккенса,Чарлз Диккенс,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+43,The Works of Charles Dickens,Charles Dickens,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False,True,False,True
+44,Works of Charles Dickens: David Copperfield,Charles Dickens,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False,True,False,True
+45,The Works of Charles Dickens: American notes and pictures from Italy,Charles Dickens,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,True,False,True
+46,The life of Charles Dickens,John Forster,True,True,True,False,False,True,False,False,False,False,False,False,False,False,False,True,False,True
+47,The Writings of Charles Dickens,Charles Dickens,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False,True,False,True
+48,A Cyclopedia of the Best Thoughts of Charles Dickens,Charles Dickens,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,True,False,True
+49,"The Works of Charles Dickens ; with Introductions, General Essay, and Notes by Andrew Lang: Our mutual friend",Charles Dickens,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False,True,False,True
+50,Beauties of Dickens,Charles Dickens,True,True,True,False,False,True,False,False,False,False,False,False,False,False,False,True,False,True
+51,Jane Austen's Possessions and Dispossessions,Sandie Byrne,True,True,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
+52,Summary and Analysis of The Real Jane Austen: A Life in Small Things,Worth Books,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+53,What Jane Austen's Characters Read (and Why),Susan Allen Ford,True,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+54,Jane Austen's Sanditon,Arthur M. Axelrad,True,True,True,False,False,False,False,True,False,True,False,False,False,False,False,True,False,False
+55,"Jane Austen, Obstinate Heart",Valerie Grosvenor Myer,True,True,False,False,False,False,True,False,False,True,True,False,False,False,False,False,False,False
+56,Pride and Prejudice,Jane Austen,True,True,True,False,False,False,False,False,True,True,False,False,False,False,False,True,False,False
+57,In the Garden with Jane Austen,Kim Wilson,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
+58,The Complete Works of Jane Austen,Jane Austen,True,True,True,True,True,False,False,False,True,True,False,False,False,False,False,True,False,False
+59,Jane Austen,Jane Austen,True,True,True,False,False,False,False,True,False,True,False,False,False,False,False,True,False,False
+60,Jane Austen: The Complete Novels (The Giants of Literature - Book 10),Jane Austen,True,True,True,True,True,False,False,False,True,True,True,False,False,False,False,True,True,True
+61,"Celebrities of the century, ed. by L.C. Sanders",Celebrities,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False,True,False,True
+62,Littell's Living Age,Eliakim Littell,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False,True,False,True
+63,The Mark Twain Encyclopedia,J. R. LeMaster,True,True,True,True,True,False,True,False,False,False,False,False,False,False,False,True,False,False
+64,Mark Twain Essays,Mark Twain,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False
+65,Mark Twain,Ron Chernow,True,True,True,True,True,False,False,False,True,False,True,False,False,False,False,True,False,False
+66,Английский с Марком Твеном. Принц и нищий. Часть 1 = Mark Twain. The Prince and the Pauper,Марк Твен,True,True,True,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False
+67,The Complete Works of Mark Twain,Mark Twain,True,True,True,True,True,False,False,False,True,True,False,False,False,False,False,True,False,False
+68,Английский с Марком Твеном. Принц и нищий. Часть 2 = Mark Twain. The Prince and the Pauper,Марк Твен,True,True,True,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False
+69,Mark Twain and Metaphor,John Bird,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+70,Complete Letters of Mark Twain,Марк Твен,True,True,True,True,True,False,False,False,True,True,False,False,False,False,False,True,False,False
+71,"Mark Twain's sketches, new and old. Now first published in complete form, etc",Samuel Langhorne Clemens,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True
+72,Mark Twain's Speeches,Марк Твен,True,True,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+73,Stepping Into Mark Twain's World,"Maloof, Torrey",False,False,False,False,False,False,False,False,True,True,True,False,False,True,False,False,False,False
+74,Mark Twain's sketches,Samuel Langhorne Clemens,True,True,True,False,False,True,False,False,False,False,False,False,False,False,False,True,False,True
+75,"Mark Twain Collection ""His Novels, Short Stories, Speeches, and Letters""",Mark Twain,True,True,True,True,True,False,False,False,True,True,True,False,True,False,False,True,False,False
+76,Mark Twain,Ron Powers,True,True,True,True,True,False,False,True,False,False,True,False,False,False,False,True,False,False
+77,Who Is Mark Twain?,Mark Twain,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+78,The Complete Speeches & Articles of Mark Twain,Mark Twain,True,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+79,"The Letters Of Mark Twain, Complete",Mark Twain,True,True,True,True,True,False,False,False,True,False,False,False,False,False,False,True,False,False
+80,"The Letters of Mark Twain, Volume 6",Mark Twain,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False
+81,MARK TWAIN Ultimate Collection: 370+ Titles in One Volume (Illustrated),Mark Twain,True,True,True,True,True,False,False,False,True,True,False,False,False,False,False,True,True,True
+82,Mark Twain's Fables of Man,Mark Twain,True,True,True,True,True,False,True,False,False,False,False,False,False,False,False,True,False,False
+83,Оруэлл. 1945. Руины. Военные репортажи,Джордж Оруэлл,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+84,The Cambridge Companion to George Orwell,John Rodden,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+85,«1984» Джорджa Оруэллa / “1984” by George Orwell. Student’s book,Оксана Капица,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False
+86,Orwell and the Politics of Despair,Alok Rai,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+87,"Оруэлл. Пророчества, которые сбылись",Джордж Оруэлл,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+88,George Orwell,John Rodden,True,True,True,True,False,False,False,True,False,False,False,False,False,False,False,True,False,False
+89,Orwell On Truth,George Orwell,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False
+90,Джордж Оруэлл. Неприступная душа,Вячеслав Недошивин,True,True,True,True,True,False,False,False,True,False,True,False,False,False,False,True,False,False
+91,The Complete Works of George Orwell,George Orwell,True,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+92,The World of George Orwell,Miriam Gross,True,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False
+93,"History of Oswego County, New York",Crisfield Johnson,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False,True,False,True
+94,A Psychoanalytical Study of the Novels of George Orwell,Gerald Lionel Fiderer,True,True,True,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False
+95,"1984 in 1984, Orwell as Prophecy",Richard Waldron,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+96,Harry Potter,S. Gunelius,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+97,Джоан Роулинг. Неофициальная биография создательницы вселенной «Гарри Поттера»,Марина Ленти,True,True,True,True,False,False,False,False,True,False,True,False,False,False,False,True,False,False
+98,Harry Potter,J. K. Rowling,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False
+99,Oracle Database 12c PL/SQL Programming,Michael McLaughlin,True,True,True,True,True,False,False,True,False,False,False,False,False,False,False,True,False,False
+100,Some Account of the Worshipful Company of Clockmakers of the City of London,Worshipful Company of Clockmakers,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True
+101,Global Marketing,Warren J. Keegan,True,True,True,True,True,False,False,True,False,False,False,False,False,False,False,True,False,False
+102,Norwalk,Charles Melbourne Selleck,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,True,False,True
+103,Daniel Radcliffe,John Bankston,False,False,False,False,False,False,False,True,False,True,True,False,False,False,False,True,False,False
+104,Madison Public Schools Report for ...,Madison (Wis.). Board of Education,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False,True,False,True
+105,A Game of Thrones,George R. R. Martin,True,True,True,True,True,False,False,True,False,True,False,False,False,False,False,True,False,False
+106,Shakespeare and Game of Thrones,Jeffrey R. Wilson,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+107,Medievalism in A Song of Ice and Fire and Game of Thrones,Shiloh Carroll,True,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False
+108,"A Game of Thrones Enhanced Edition (A Song of Ice and Fire, Book 1)",George R.R. Martin,True,True,True,True,True,False,False,True,False,True,False,True,False,False,False,True,True,True
+109,Power and Subversion in Game of Thrones,A. Keith Kelly,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False
+110,"Machtbeziehungen in der TV-Serie ""Game of Thrones"" vor dem Hintergrund vormoderner Machtkonzeptionen in mittelalterlicher deutscher Epik",Lara Schmidt,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+111,HBO’s Original Voices,Victoria McCollum,True,False,False,False,False,False,False,False,True,False,False,True,True,False,False,False,False,False
+112,Beyond Blurred Lines,Nickie D. Phillips,True,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+113,The Unofficial Guide to Game of Thrones,Kim Renfro,True,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+114,A Game of Thrones: The Graphic Novel,George R. R. Martin,True,False,False,False,False,False,False,True,False,True,False,True,False,False,False,False,False,False
+115,"The Art of Game of Thrones, the Official Book of Design from Season 1 to Season 8",Deborah Riley,True,True,True,False,False,False,False,False,True,False,False,False,False,False,False,True,True,True
+116,Women in Game of Thrones,Valerie Estelle Frankel,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False
+117,The Little Book of Game of Thrones Facts,Fact Bomb Company Limited,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,True,False
+118,The World of Ice & Fire,George R. R. Martin,True,True,False,False,False,False,False,True,False,True,False,True,False,False,False,True,False,False
+119,The Lord of the Rings,John Ronald Reuel Tolkien,True,True,True,True,True,False,False,True,False,True,False,False,False,False,False,True,False,False
+120,The Fellowship of the Ring,J.R.R. Tolkien,True,True,True,True,False,False,True,False,False,True,False,True,False,False,False,True,False,False
+121,"The Fellowship of the Ring (The Lord of the Rings, Book 1)",J. R. R. Tolkien,True,True,True,False,False,False,False,True,False,True,False,False,False,False,False,True,True,False
+122,"The Lord of the Rings: The Fellowship of the Ring, The Two Towers, The Return of the King",J. R. R. Tolkien,True,True,True,True,True,False,False,True,False,True,False,False,False,False,False,True,False,False
+123,The Lord of the Rings,Wayne G. Hammond,True,True,True,True,True,False,False,True,False,True,False,False,False,False,False,True,False,False
+124,Watching the Lord of the Rings,Ernest Mathijs,True,True,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False
+125,The Lord of the Rings and Philosophy,Gregory Bassham,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+126,The Lord of the Rings,Ernest Mathijs,True,True,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False
+127,The Lord of the Rings Illustrated,J. R. R. Tolkien,True,True,True,True,True,False,False,False,True,True,False,True,False,False,False,True,False,False
+128,The Lord of the Rings,J. R. R. Tolkien,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
+129,The Two Towers,J.R.R. Tolkien,True,True,True,False,False,False,False,True,False,True,False,False,False,False,False,True,False,False
+130,The Lord of the Rings: The two towers,John Ronald Reuel Tolkien,True,True,True,True,True,False,False,True,False,True,False,True,False,False,False,True,False,False
+131,Understanding the Lord of the Rings,Rose A. Zimbardo,True,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+132,Stephen King,Stephen King,True,True,True,True,True,False,True,False,False,True,False,False,False,False,False,True,False,False
+133,The Stand,Stephen King,True,True,True,True,True,False,False,True,False,True,False,False,False,False,False,True,False,False
+134,The Body,Stephen King,False,False,False,False,False,False,False,False,True,True,False,False,False,True,False,False,False,False
+135,It,Stephen King,True,True,True,True,True,False,False,False,True,True,False,False,False,True,False,True,False,False
+136,Stephen King,Bev Vincent,True,False,False,False,False,False,False,False,True,True,True,False,False,False,False,True,False,False
+137,Stephen King,Michael Gray Baughan,False,False,False,False,False,False,False,True,False,True,True,False,False,False,False,False,False,False
+138,Stephen King's Contemporary Classics,Philip L. Simpson,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
+139,Theorizing Stephen King,Michael Blouin,True,True,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+140,Stephen King's Modern Macabre,Patrick McAleer,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+141,The Moral Voyages of Stephen King,Tony Magistrale,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False
+142,"Full Dark, No Stars",Stephen King,True,True,False,False,False,False,False,True,False,True,False,False,True,False,False,True,False,False
+143,Fairy Tale,Stephen King,True,True,True,True,True,False,False,False,True,True,False,False,False,False,False,True,False,False
+144,11/22/63,Stephen King,True,True,True,True,True,False,False,True,False,True,False,False,False,False,False,True,False,False
+145,Ночные кошмары и фантастические видения,Стивен Кинг,True,True,True,True,True,False,False,False,True,False,False,False,False,False,False,True,False,False
+146,Stephen King Goes to the Movies,Stephen King,True,True,True,True,True,False,False,True,False,False,True,False,False,False,False,True,False,False
+147,Doctor Sleep,Stephen King,True,True,True,True,False,False,False,False,True,True,False,False,False,False,False,True,False,False
+148,A Brief Guide to Stephen King,Paul Simpson,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
+149,Landscape of Fear,Tony Magistrale,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False
+150,The Dead Zone,Stephen King,True,True,True,True,False,False,False,False,True,True,False,False,False,False,False,True,False,False
+151,Dan Brown Export Box Set,Dan Brown,True,True,True,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False
+152,Professional Web APIs with PHP,Paul Reinheimer,True,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+153,The Gospel According to Dan Brown,Jeff Dunn,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
+154,The Man Behind the Da Vinci Code,Lisa Rogak,False,False,False,False,False,False,False,True,False,True,True,False,False,False,False,False,False,False
+155,Dan Brown,Lisa Rogak,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+156,Origin,Dan Brown,True,True,True,True,False,False,False,False,True,True,False,False,False,False,False,True,False,False
+157,Digital Telephony and Law Enforcement Access to Advanced Telecommunications Technologies and Services,United States. Congress. Senate. Committee on the Judiciary. Subcommittee on Technology and the Law,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+158,Pomona Queen,Kem Nunn,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
+159,The Solomon Key and Beyond,W. Frederick Zimmerman,True,True,True,False,False,False,False,True,False,True,False,False,False,False,False,True,False,False
+160,Dan Brown's Road to Success,D. M. Brown,False,False,False,False,False,False,False,True,False,True,True,False,False,False,False,False,False,False
+161,The Dan Brown Enigma,Graham Thomas,True,False,False,False,False,False,False,True,False,True,True,False,False,False,False,False,False,False
+162,The Dan Brown Enigma,Graham A. Thomas,True,True,True,False,False,False,False,True,False,True,True,False,False,False,False,True,False,False
+163,Twenty-First-Century Popular Fiction,Bernice M. Murphy,True,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+164,The Dan Brown Companion,Simon Cox,True,False,False,False,False,False,False,True,False,True,False,False,True,False,False,False,False,False
+165,The Unauthorized Dan Brown Companion,John Helfers,True,True,False,False,False,False,False,True,False,True,True,True,False,False,False,False,False,False
+166,History of Chicago: From the fire of 1871 until 1885,Alfred Theodore Andreas,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False,True,False,True
+167,INFERNO,DAN BROWN,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+168,James Patterson by James Patterson,James Patterson,True,True,False,False,False,False,False,False,True,True,True,False,False,False,False,True,False,False
+169,Private: Gold,James Patterson,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+170,Kill Me If You Can,James Patterson,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
+171,Kill and Tell,James Patterson,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+172,The Dolls,James Patterson,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+173,Black Market,James Patterson,True,True,True,False,False,False,False,True,False,True,False,False,False,False,False,True,False,False
+174,Truth Or Die,James Patterson,True,True,True,True,False,False,False,False,True,False,False,False,False,False,False,True,False,False
+175,Heist,James Patterson,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+176,Zoo,James Patterson,True,True,False,False,False,False,False,True,False,True,False,False,False,False,False,True,False,False
+177,The First Lady,James Patterson,True,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+178,The Lake House,James Patterson,True,True,True,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False
+179,The Warning,James Patterson,True,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+180,Steal,James Patterson,True,True,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False,False
+181,The Season of the Machete,James Patterson,True,True,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False
+182,Hide & Seek,James Patterson,True,True,False,False,False,False,True,False,False,True,False,False,False,True,False,False,False,False
+183,Paranoia,James Patterson,True,True,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False,False
+184,Invisible,James Patterson,True,True,False,False,False,False,False,True,False,True,False,False,False,False,False,True,False,False
+185,Kiss the Girls,James Patterson,True,True,True,False,False,False,True,False,False,True,False,False,True,False,False,True,False,False
+186,1st Case,James Patterson,True,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+187,Agatha Christie's True Crime Inspirations,Mike Holgate,False,False,False,False,False,False,False,True,False,True,False,False,True,False,False,False,False,False
+188,The Getaway Guide to Agatha Christie's England,Judith Hurdle,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+189,"Тайна ""Голубого поезда""",Agatha Christie,True,True,True,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False
+190,The Complete Christie,Matthew Bunson,True,True,True,False,False,False,False,True,False,False,True,False,False,False,False,True,False,False
+191,Agatha Christie,Henry Reymond Fitzwalter Keating,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+192,The Agatha Christie Collection,Agatha Christie,True,True,True,False,False,False,False,True,False,True,False,False,True,False,False,True,False,False
+193,The Films of Agatha Christie,Scott Palmer,True,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False
+194,"Agatha Christie, Woman of Mystery - With Audio Level 2 Oxford Bookworms Library",John Escott,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,True,False
+195,Christmas With Agatha Christie,Agatha Christie,True,True,True,True,True,False,False,False,True,True,True,False,True,False,False,True,False,False
+196,Agatha Christie: Inspiring Lives,Cathy Cook,False,False,False,False,False,False,False,True,False,False,True,False,True,False,False,False,False,False
+197,British Murder Mysteries - The Agatha Christie Collection,Agatha Christie,True,True,True,True,True,False,False,False,True,True,False,False,True,False,False,True,False,False
+198,The Mysterious World of Agatha Christie,Jeffrey Feinman,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+199,Agatha Christie,Mary Wagoner,False,False,False,False,False,False,True,False,False,False,True,False,True,False,False,True,False,False
+200,AGATHA CHRISTIE Premium Collection,Agatha Christie,True,True,True,True,True,False,False,False,True,True,False,False,True,False,False,True,False,False
+201,Cards on the Table,Agatha Christie,True,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False
+202,Agatha Christie,J.C. Bernthal,True,True,True,False,False,False,False,False,True,True,False,False,True,False,False,True,False,False
+203,The Bloomsbury Handbook to Agatha Christie,Mary Anna Evans,True,True,True,False,False,False,False,False,True,True,True,False,False,False,False,True,True,True
+204,The Collected Works of Agatha Christie (Vol.1),Agatha Christie,True,True,True,True,True,False,False,False,True,True,False,False,True,False,False,True,False,False
+205,Библиография Средиземья. Творчество Дж. Р. Р. Толкина и его изучение в России и за рубежом. Указатель источников и литературы,Михаил Минц,True,True,True,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False
+206,"Exploring J.r.r. Tolkien's ""the Hobbit""",Corey Olsen,True,True,False,False,False,False,False,True,False,False,False,True,True,False,False,False,False,False
+207,Tolkien's Mythology for England,Edmund Wainwright,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+208,J.R.R. Tolkien,Bodleian Library,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+209,Джон Р. Р. Толкин. Биография,Хамфри Карпентер,True,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False
+210,The Languages of Tolkien's Middle-earth,Ruth S. Noel,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+211,Толкин,Геннадий Прашкевич,True,True,True,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False
+212,Monarch Notes on Tolkien's Fellowship of the Ring,Louise D. Morrison,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+213,The Letters of J. R. R. Tolkien,J. R. R. Tolkien,True,True,True,True,True,False,False,True,False,False,False,False,False,False,False,True,False,False
+214,Tolkien's Gown,R. A. Gekoski,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+215,Tolkien Through Russian Eyes,Mark T. Hooker,True,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+216,"The Lord of the Rings, 1954-2004",Wayne G. Hammond,True,True,False,False,False,False,False,True,False,True,False,True,False,False,False,False,False,False
+217,Как Гарри заколдовал мир. Скрытые смыслы произведений Дж.К. Роулинг,Джон Грейнджер,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+218,"Джоан Роулинг. Всё о Гарри Поттере, жизни и любви",Софья Бенуа,True,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False
+219,Myths and Symbols in J.K. Rowling ́s Harry Potter and the Philosopher ́s Stone,Volker Geyer,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+220,Names and Their Underlying Mythology in J.K. Rowling's Harry Potter-Novels,Anne-Christin Hirsch,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
+221,J.K. Rowling,Mary Hill,False,False,False,False,False,False,False,True,False,True,True,False,False,False,False,False,False,False
+222,Rowling,John Henderson,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+223,J.K. Rowling,Ann Gaines,False,False,False,False,False,False,False,True,False,True,True,False,False,True,False,False,False,False
+224,J.K. Rowling,Bradley Steffens,False,False,False,False,False,False,False,True,False,True,True,False,False,False,False,False,False,False
+225,The J.K. Rowling Encyclopedia,Connie Ann Kirk,True,True,True,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False
+226,Harry Potter and the Sorcerer's Stone by J.K. Rowling,Lori Mammen,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
+227,J.K. Rowling,Sean Smith,True,True,False,False,False,False,False,True,False,True,True,False,False,False,False,False,False,False
+228,Who Is J.K. Rowling?,Pam Pollack,False,False,False,False,False,False,False,True,False,True,True,False,False,False,False,True,False,False
+229,Сборник «3 бестселлера. Юмористическое фэнтези»,Светлана Багдерина,True,True,True,True,True,False,False,False,True,True,False,False,False,False,False,True,False,False
+230,Fang-tastic Fiction,Patricia O'Brien Mathews,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False
+231,The Magazine of Fantasy and Science Fiction,Anthony Boucher,True,True,True,True,False,False,True,False,False,True,False,True,False,False,False,True,False,False
+232,Science Fiction and Fantasy,Library of Congress. National Library Service for the Blind and Physically Handicapped,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+233,Bestsellers,Clive Bloom,True,True,True,False,False,False,False,True,False,True,False,False,False,False,False,True,False,False
+234,The Science Fiction Source Book,David Wingrove,True,True,False,False,False,False,True,False,False,True,False,False,False,False,False,False,True,False
+235,Burn the Night,Jocelynn Drake,True,True,True,False,False,False,False,True,False,True,False,True,False,False,False,True,False,False
+236,"Science Fiction and Fantasy Literature, 1975-1991",R. Reginald,True,True,True,True,True,False,True,False,False,True,True,True,False,False,False,True,False,False
+237,"Science Fiction and Fantasy Reference Index, 1985-1991",Halbert W. Hall,True,True,True,True,True,False,True,False,False,False,False,False,False,False,False,True,False,False
+238,Bestsellers: Popular Fiction Since 1900,Clive Bloom,True,True,True,False,False,False,False,False,True,True,False,False,False,True,False,True,False,False
+239,Science Fiction and Anticipation,Bernard Montoneri,True,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+240,Увлечь за 100 слов. С чего начинается бестселлер?,Луиза Уиллдер,True,True,True,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False
+241,The Ultimate Guide to Writing a Bestselling Novel: Step by Step,D Gauthier,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+242,Gene Wolfe,Joan Gordon,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False
+243,Science Fiction Dialogues,Science Fiction Research Association,True,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False
+244,Talking Books Adult,Library of Congress. National Library Service for the Blind and Physically Handicapped,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False
+245,Science Fiction Writer's Marketplace and Sourcebook,David Borcherding,True,True,True,True,False,False,True,False,False,True,False,True,False,False,False,True,True,False
+246,Genreflecting,Betty Rosenberg,True,True,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False
+247,BiblioAsia,National Library (Singapore),True,True,True,True,False,False,False,False,True,False,False,False,False,False,False,True,False,False
+248,They All Laughed at Christopher Columbus,Elizabeth Weil,True,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False
+249,Bestseller,Robert McParland,True,True,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False,False
+250,The Butterfly Collector,Tea Cooper,True,False,False,False,False,False,False,False,True,True,False,False,True,False,False,True,False,False
+251,Making the Detective Story American,J.K. Van Dover,True,False,False,False,False,False,False,True,False,True,False,False,True,False,False,False,False,False
+252,2001 Novel and Short Story Writer's Market,Barbara Kuroff,True,True,True,True,True,False,False,True,False,True,False,False,False,False,False,True,False,False
+253,The Virgin's Secret,Victoria Alexander,True,True,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
+254,Dead Case in Deadwood,Ann Charles,True,True,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
+255,"$106,000 Blood Money",Dashiell Hammett,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+256,Silhouette in Scarlet,Elizabeth Peters,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
+257,Dashiell Hammett,Julian Symons,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False
+258,The Laughter of Dead Kings,Elizabeth Peters,True,True,True,False,False,False,False,True,False,True,False,False,True,False,False,True,False,False
+259,Последний бестселлер Мореля. Коллект-триллер. Вторая книга,Влад Ревзин,True,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+260,Bestsellers,Ivan King,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+261,"The Wolf at the Door (Sean Dillon Series, Book 17)",Jack Higgins,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,False
+262,"The Judas Gate (Sean Dillon Series, Book 18)",Jack Higgins,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,False
+263,"A Darker Place (Sean Dillon Series, Book 16)",Jack Higgins,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,False
+264,The Khufra Run,Jack Higgins,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
+265,"The Killing Ground (Sean Dillon Series, Book 14)",Jack Higgins,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,False
+266,Прокурорскій надзор в его устройстве и дѣятельности,Nikolaĭ Valerʹi︠a︡novich Muravʹev,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,True,False,True
+267,What Do I Read Next? Volume 2 2003,Gale Group,True,True,True,True,True,False,False,True,False,True,False,False,False,False,False,True,True,False
+268,"Sean Dillon 3-Book Collection 2: Angel of Death, Drink With the Devil, The President’s Daughter",Jack Higgins,True,True,True,True,False,False,False,True,False,True,False,False,False,False,False,True,True,True
+269,Wschód-Zachód,Zoja Nowoj̇enowa,True,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+270,Anglizismen-Wörterbuch,Broder Carstensen,True,True,True,True,True,False,True,False,False,False,False,False,False,False,False,True,False,False
+271,"Новые параллельные словари языков русскаго, французскаго нѣмецкаго и англійскаго в четырех частях, по словарям Россійской академіи, Французской академіи, Аделунга, Гейнзіуса, Джонсона, Спирса, и по другим лексиконам",Ch. Ph Reiff,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False,True,False,True
+272,Про любовь... Серия «Бестселлер МГО СПР»,С. Ковалёв,True,True,True,True,True,False,False,False,True,False,False,False,False,False,False,True,False,False
+273,My Favorite Witch,Annette Blair,True,True,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+274,Dollar Series,Pepper Winters,True,True,True,False,False,False,False,False,False,True,False,False,False,False,False,True,True,True
+275,Goddess Isles,Pepper Winters,True,True,True,True,True,False,False,False,False,True,False,True,False,False,False,True,False,True
+276,The Kitchen Witch,Annette Blair,True,True,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+277,Fake Love,Nova Gibson,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+278,Fable of Happiness,Pepper Winters,True,True,True,False,False,False,False,False,True,True,False,False,False,False,False,True,False,False
+279,Corporate Cowboy (Mills & Boon American Romance),Pamela Bauer,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
+280,The Regency Bestsellers Collection: The Governess Game / Mistress at Midnight / Scars of Betrayal / Rake Most Likely to Rebel / Rake Most Likely to Thrill / The Designs of Lord Randolph Cavanaugh,Tessa Dare,True,True,True,True,True,False,False,False,True,True,False,False,False,False,False,True,False,False
+281,"A Love Beyond Words (Bestselling Author Collection, Book 13) (Mills & Boon Cherish)",Sherryl Woods,True,True,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,True
+282,Bestseller,Claud Cockburn,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+283,Driving Me Crazy,Peggy Webb,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
+284,The Grand Finale,Janet Evanovich,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,True,False,False
+285,The Scandalous Secrets Collection,Andrea Laurence,True,True,True,True,True,False,False,False,True,True,False,False,False,False,False,True,False,False
+286,The Children's Doctor and the Single Mum (Mills & Boon Medical),Lilian Darcy,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
+287,Foul Play,Janet Evanovich,True,False,False,False,False,False,False,True,False,True,False,False,True,False,False,True,False,False
+288,Flying Lessons,Peggy Webb,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
+289,Where the Heart Leads,Stephanie Laurens,True,True,True,False,False,False,False,True,False,True,False,False,True,False,False,True,False,False
+290,Plotting To Win,Tara Chevrestt,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
+291,Masterclass: Write a Bestseller,Jacq Burns,True,False,False,False,False,False,False,True,False,True,False,False,False,True,False,False,False,False
+292,Как написать электронную книгу-бестселлер,Антон Добровольский,True,True,True,True,True,False,False,False,True,False,False,False,False,False,False,True,False,False
+293,Литературный талант. Как написать бестселлер,Михаил Ахманов,True,True,True,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False
+294,The Nowhere Child (Free sampler): The bestselling debut psychological thriller you need to read now!,Christian White,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+295,Wither's Legacy,John Passarella,True,True,True,False,False,False,False,True,False,True,False,False,False,False,False,True,False,False
+296,Horror Zone,Ian Conrich,True,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+297,Transactions on Computational Collective Intelligence III,Ngoc Thanh Nguyen,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+298,The Mammoth Book of Best New Horror,Stephen Jones,True,True,True,True,True,False,False,True,False,False,False,False,False,False,False,True,True,False
+299,"A Century of Horror, 1970-1979",David Drake,True,True,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False
+300,The Making of a Bestseller,Brian Hill,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+301,Braille Books,Library of Congress. National Library Service for the Blind and Physically Handicapped,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+302,The Writer's Market,Kathryn Struckel Brogan,True,True,True,True,True,False,False,True,False,False,False,False,False,False,False,True,False,False
+303,2002 Writer's Market the Internet Edition,Kirsten Holm,True,True,True,True,True,False,False,True,False,False,False,False,False,False,False,True,False,False
+304,Prizing Children's Literature,Kenneth B. Kidd,True,False,False,False,False,False,False,False,True,True,False,False,False,True,False,False,False,False
+305,Children's Writers' & Artists' Yearbook 2018,Bloomsbury Publishing,True,True,True,True,True,False,False,False,True,True,False,True,False,True,False,True,True,True
+306,The New Literary Middlebrow,B. Driscoll,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+307,"Internet Kids & Family Yellow Pages, 2001 Edition",Jean Amour Polly,True,True,True,True,False,False,False,True,False,False,False,False,False,False,False,True,False,False
+308,Children's Writer's and Illustrator's Market '98,Alice P. Buening,True,True,True,False,False,False,True,False,False,True,True,False,False,False,False,True,False,False
+309,Whistle,Linwood Barclay,True,True,True,False,False,False,False,False,True,True,False,False,False,False,False,True,False,False
+310,Pilbara,Judy Nunn,True,True,True,False,False,False,False,False,True,True,False,False,False,True,False,True,False,False
+311,This Is a Call: The Fully Updated and Revised Bestselling Biography of Dave Grohl,Paul Brannigan,True,True,True,False,False,False,False,True,False,False,True,False,False,False,False,True,False,False
+312,Discover Educational Toys for Children,Hilary Werdel,True,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False
+313,Fair Barbarian,Frances Hodgson Burnett,True,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False
+314,The Bear Essentials,Stan Berenstain,False,False,False,False,False,False,False,True,False,True,True,False,False,True,False,False,False,False
+315,The Best Seller!,Ron Willingham,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+316,Newsmakers Sub Cumulation,Newsmakers,True,True,True,True,True,False,False,True,False,False,True,False,False,False,False,True,False,False
+317,Young Adult Markets,Harrison Stewart,False,False,False,False,False,False,False,False,True,True,False,False,False,True,False,False,False,False
+318,Sexual Content in Young Adult Literature,Bryan Gillis,False,False,False,False,False,False,False,False,True,True,True,False,False,True,False,False,False,False
+319,Save the Cat! Writes a Young Adult Novel,Jessica Brody,True,True,True,False,False,False,False,False,True,True,False,False,False,True,False,True,False,False
+320,Critical Foundations in Young Adult Literature,Antero Garcia,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False
+321,Children's and Young Adult Literature and Culture,Amie A. Doughty,True,False,False,False,False,False,False,False,True,True,False,True,False,True,False,False,False,False
+322,Must Read: Rediscovering American Bestsellers,Sarah Churchwell,True,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+323,DC Graphic Novels for Young Adults Sneak Previews: Teen Titans: Raven (2020-) #1,Kami Garcia,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+324,Authors and Artists for Young Adults,Kevin Hile,True,False,False,False,False,False,True,False,False,True,False,False,False,True,False,False,False,False
+325,Two Pioneers of Young Adult Library Services,Patricia J. Campbell,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False
+326,Literature for Today's Young Adults,Kenneth L. Donelson,True,True,True,True,False,False,True,False,False,True,True,True,False,False,False,True,False,False
+327,Harper's Magazine,Lee Foster Hartman,True,True,True,True,True,False,True,False,False,False,False,False,False,False,False,True,False,False
+328,Young Adult Literature,Katherine Toth Bucher,True,True,True,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False
+329,"Indigo Awakening (The Hunted, Book 1)",Jordan Dane,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,False
+330,Young Adult Literature,Mary Elizabeth Gallagher,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+331,The Strength of the Inconspicuous,Christine Jenkins,True,True,True,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False
+332,Children's Writer's and Illustrator's Market 1994,Christine Martin,True,True,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False
+333,Бунтари. Биографии 8 необычных топ-менеджеров и их феноменальные истории успеха,Уильям Торндайк,True,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False
+334,Лучшие известия из биографии Ибн Теймийи, Умар Али аль-Баззар,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+335,С белых яблонь дым. Лучшие стихи и биография,Сергей Есенин,True,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False
+336,"Биография, письма и замѣтки из записной книжки Ф.М. Достоевскаго",Dostoevskij,True,True,True,False,False,True,False,False,False,False,False,False,False,False,False,True,False,True
+337,Материалы для биографии Гоголя,Владимир Иванович Шенрок,True,True,True,False,False,True,False,False,False,False,False,False,False,False,False,True,False,True
+338,Биографии и характеристики,Константин Николаевич Бестужев-Рюмин,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True
+339,История русской литературы в очерках и биографиях,Petr Polevoĭ,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False,True,False,True
+340,Опыт полной биографии А.А. Иванова,Aleksej Petrovič Novickij,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+341,Материалы для биографии Н.А. Добролюбова,Nikolaĭ Aleksandrovich Dobroli︠u︡bov,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False,True,False,True
+342,Биография Федора Ивановича Тютчева,Ivan Sergeevich Aksakov,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True
+343,Биография Федора Ивановича Тютчева,Иван Сергеевич Аксаков,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True
+344,"Сочинения Ивана Саввича Никитина с его портретом, fac-simile и биографией составленной редактором издания М.Ф. де-Пуле",Иван Саввич Никитин,True,True,True,False,False,True,False,False,False,False,False,False,False,False,False,True,False,True
+345,Биография Петра I Великаго,Михаил Васильевич Овчинников,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False
+346,Cassette Books,Library of Congress. National Library Service for the Blind and Physically Handicapped,True,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False
+347,История русской литературы в очерках и биографиях,Петр Николаевич Полевой,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False,True,False,True
+348,"Ишрак. Ежегодник исламской философии No2, 2011 / Ishraq. Islamic Philosophy Yearbook No2, 2011",Коллектив авторов,True,True,True,True,True,False,False,True,False,False,False,False,False,False,False,True,True,True
+349,"Ишрак. Ежегодник исламской философии No5, 2014 / Ishraq. Islamic Philosophy Yearbook No5, 2014",Коллектив авторов,True,True,True,False,False,False,False,False,True,False,False,False,False,False,False,True,True,True
+350,"Ишрак. Ежегодник исламской философии No7, 2016 / Ishraq. Islamic Philosophy Yearbook No7, 2016",Коллектив авторов,True,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,True
+351,Philosophy of Language,William G. Lycan,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+352,200 Words to Help You Talk about Philosophy,Anja Steinbauer,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+353,Introduction to Philosophy,George Trumbull Ladd,True,True,True,False,False,True,False,False,False,False,False,False,False,False,False,True,False,True
+354,Ancient Philosophy,Daniel W. Graham,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+355,Insights and Oversights of Great Thinkers,Charles Hartshorne,True,True,True,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False
+356,A Brief History of Greek Philosophy,Benjamin Chapman Burt,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True
+357,The Philosophy of the Beautiful,William Angus Knight,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True
+358,Modern Philosophy,Francis Bowen,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,True,False,True
+359,What is Philosophy?,José Ortega y Gasset,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+360,Thought: A Philosophical History,Panayiota Vassilopoulou,True,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+361,Philosophy and Religion,Strong,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False,True,False,True
+362,Text-book in Intellectual Philosophy,James Tift Champlin,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+363,The Philosophy of Reflection,Hodgson,True,True,True,False,False,True,False,False,False,False,False,False,False,False,False,True,False,True
+364,Being a Philosopher,David W. Hamlyn,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False
+365,"Evolution in Science, Philosophy, and Art",Brooklyn Ethical Association,True,True,True,True,False,True,False,False,False,False,False,False,False,False,False,True,False,True
+366,Library of Congress Subject Headings,Library of Congress,True,True,True,True,True,False,True,False,False,False,False,False,False,False,False,True,False,False
+367,Лучшие. Как становятся элитными спортсменами,Марк Уильямс,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+368,Как оценить риски в кибербезопасности. Лучшие инструменты и практики,Дуглас Хаббард,True,True,True,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False
+369,Не доверяйте своей интуиции. Как лидеры-новаторы принимают лучшие решения и избегают бизнес-катастроф,Глеб Ципурский,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+370,The #1 New York Times Bestseller,John Bear,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+371,"Saxo Grammaticus; Or, First Aid for the Best-seller",Ernest Weekley,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+372,A Qualitative Analysis of the Criticism of Best Sellers,Martha Terosse Boaz,True,True,True,True,True,False,True,False,False,False,False,False,False,False,False,True,False,False
+373,Best Seller,Tim Shaw,True,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False
+374,Best-sellers; are They Born Or Made?,George Stevens,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
