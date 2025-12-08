@@ -96,6 +96,7 @@ class BookBinarizer:
 
         r['pages_gt_300'] = df['pages'] > 300
         r['pages_gt_500'] = df['pages'] > 500
+
         r['year_recent'] = df['year'] >= 2015
         r['year_classic'] = (df['year'] <= 1950) & (df['year'] > 0)
 
